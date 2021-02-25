@@ -1,0 +1,3 @@
+[submodule "spring-producer"]
+	path = spring-producer
+	url = https://github.com/maurigre/spring-producer
